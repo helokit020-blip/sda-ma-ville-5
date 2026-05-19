@@ -1,0 +1,2121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260519112904PV0WH1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260519112904SWJTPN</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Ma ville</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pilar Miranda Gallego</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>2º ESO Création d&apos;un plan de ville, explication d&apos;itinéraires.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779182891694</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpcfk19w-fpwilh88p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introduction: Présentation du projet</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introduction: Présentation du projet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introduction</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introduction: Présentation du projet</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk19w-fpwilh88p</odePageId>
+      <odeBlockId>block-1779099931887-oq6fjy4mz</odeBlockId>
+      <blockName>SdA: Ma ville et les itinéraires</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk19w-fpwilh88p</odePageId>
+          <odeBlockId>block-1779099931887-oq6fjy4mz</odeBlockId>
+          <odeIdeviceId>idevice-1779099931885-uu6xh0r7o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Ce projet s’inscrit dans une démarche pédagogique active et numérique. À partir d’un travail centré sur la ville et les indications de direction en français, les élèves développent des compétences linguistiques, numériques et collaboratives à travers des activités variées de compréhension et d’expression orale et écrite. Le projet vise la création d’un plan numérique interactif ainsi que d’une production vidéo en langue française. Cette proposition didactique favorise un apprentissage significatif, proche de la réalité quotidienne des élèves, tout en intégrant l’usage guidé des outils numériques. Elle répond également aux besoins détectés lors d’expériences précédentes, notamment en matière de motivation, d’autonomie et d’attention à la diversité. Enfin, ce projet permet de renforcer la compétence communicative des apprenants grâce à une approche pratique, créative et interdisciplinaire.</p>
+<p style="text-align: justify;">Cliquez sur l'image:</p>
+<p style="text-align: justify;"><a href="https://docs.google.com/document/d/1HedsTdwJ2D9qZE7AVBzFXvKAAgHu5NzAXoaE7iH6xGs/edit?tab=t.0#heading=h.etm6j7sexjio" title=""><img src="{{context_path}}/content/resources/introduction.png" width="1536" height="1024" alt="" /></a><br /> </p>
+<p style="text-align: justify;">Je me suis inspiré sur cette vidéo: <a href="https://youtu.be/AnKVbaKuNvQ">https://youtu.be/AnKVbaKuNvQ</a></p>
+<p style="text-align: justify;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779099931885-uu6xh0r7o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Ce projet s’inscrit dans une démarche pédagogique active et numérique. À partir d’un travail centré sur la ville et les indications de direction en français, les élèves développent des compétences linguistiques, numériques et collaboratives à travers des activités variées de compréhension et d’expression orale et écrite. Le projet vise la création d’un plan numérique interactif ainsi que d’une production vidéo en langue française. Cette proposition didactique favorise un apprentissage significatif, proche de la réalité quotidienne des élèves, tout en intégrant l’usage guidé des outils numériques. Elle répond également aux besoins détectés lors d’expériences précédentes, notamment en matière de motivation, d’autonomie et d’attention à la diversité. Enfin, ce projet permet de renforcer la compétence communicative des apprenants grâce à une approche pratique, créative et interdisciplinaire.</p>\n<p style=\"text-align: justify;\">Cliquez sur l'image:</p>\n<p style=\"text-align: justify;\"><a href=\"https://docs.google.com/document/d/1HedsTdwJ2D9qZE7AVBzFXvKAAgHu5NzAXoaE7iH6xGs/edit?tab=t.0#heading=h.etm6j7sexjio\" title=\"\"><img src=\"{{context_path}}/content/resources/introduction.png\" width=\"1536\" height=\"1024\" alt=\"\" /></a><br /> </p>\n<p style=\"text-align: justify;\">Je me suis inspiré sur cette vidéo: <a href=\"https://youtu.be/AnKVbaKuNvQ\">https://youtu.be/AnKVbaKuNvQ</a></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcfk19w-fpwilh88p</odePageId>
+      <odeBlockId>block-1779100169511-m4niyllch</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk19w-fpwilh88p</odePageId>
+          <odeBlockId>block-1779100169511-m4niyllch</odeBlockId>
+          <odeIdeviceId>idevice-1779100169508-f44v242m5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779100169508-f44v242m5" title="" href="{{context_path}}/content/resources/introduction.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/introduction.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779100169508-f44v242m5","img_0":{"img":"{{context_path}}/content/resources/introduction.png","thumbnail":"{{context_path}}/content/resources/introduction.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk19z-vtykknmvu</odePageId>
+  <odeParentPageId>page-mpcfk19w-fpwilh88p</odeParentPageId>
+  <pageName>La protection de données et droits numériques</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La protection de données et droits numériques</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La protection de données et la sécurité numérique</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La protection de données et droits numériques</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk19z-vtykknmvu</odePageId>
+      <odeBlockId>block-1779100662903-8rntvfc8l</odeBlockId>
+      <blockName>La protection de données et droits numériques</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk19z-vtykknmvu</odePageId>
+          <odeBlockId>block-1779100662903-8rntvfc8l</odeBlockId>
+          <odeIdeviceId>idevice-1779100662901-p62xnc4k2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p style="text-align: justify;">Cette section aborde l’importance de la protection des données personnelles et des droits numériques dans l’environnement scolaire. Aujourd’hui, les élèves utilisent quotidiennement des outils numériques pour apprendre, communiquer et créer du contenu. Il est donc essentiel de les sensibiliser à une utilisation responsable, sûre et respectueuse d’Internet. À travers ce projet, les apprenants découvrent les bonnes pratiques liées à la sécurité numérique, à la protection de la vie privée et au respect des licences et des droits d’auteur. Cette approche permet également de développer leur esprit critique face aux usages du numérique et de favoriser une citoyenneté numérique responsable.</p>
+<p><br /></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAFbTHOuXUM/ZKajpLbzHmtstUfqjVzWKw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAFbTHOuXUM/ZKajpLbzHmtstUfqjVzWKw/view?utm_content=DAFbTHOuXUM&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Infografía Material Escolar Craft Beige</a> de José Carlos Villalba Velasco<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779100662901-p62xnc4k2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p style=\"text-align: justify;\">Cette section aborde l’importance de la protection des données personnelles et des droits numériques dans l’environnement scolaire. Aujourd’hui, les élèves utilisent quotidiennement des outils numériques pour apprendre, communiquer et créer du contenu. Il est donc essentiel de les sensibiliser à une utilisation responsable, sûre et respectueuse d’Internet. À travers ce projet, les apprenants découvrent les bonnes pratiques liées à la sécurité numérique, à la protection de la vie privée et au respect des licences et des droits d’auteur. Cette approche permet également de développer leur esprit critique face aux usages du numérique et de favoriser une citoyenneté numérique responsable.</p>\n<p><br /></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAFbTHOuXUM/ZKajpLbzHmtstUfqjVzWKw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAFbTHOuXUM/ZKajpLbzHmtstUfqjVzWKw/view?utm_content=DAFbTHOuXUM&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Infografía Material Escolar Craft Beige</a> de José Carlos Villalba Velasco<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcfk19z-vtykknmvu</odePageId>
+      <odeBlockId>block-1779135648546-iq0fbu6kq</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk19z-vtykknmvu</odePageId>
+          <odeBlockId>block-1779135648546-iq0fbu6kq</odeBlockId>
+          <odeIdeviceId>idevice-1779135648545-qiqekxojm</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779135648545-qiqekxojm" title="" href="{{context_path}}/content/resources/protection de datos.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/protection de datos.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779135648545-qiqekxojm","img_0":{"img":"{{context_path}}/content/resources/protection de datos.png","thumbnail":"{{context_path}}/content/resources/protection de datos.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a0-r3oqr15ry</odePageId>
+  <odeParentPageId>page-mpcfk19w-fpwilh88p</odeParentPageId>
+  <pageName>Produit final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Produit final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Produit final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a0-r3oqr15ry</odePageId>
+      <odeBlockId>block-1779135679431-6qc3eew3y</odeBlockId>
+      <blockName>Plan numérique : mon itinéraire</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a0-r3oqr15ry</odePageId>
+          <odeBlockId>block-1779135679431-6qc3eew3y</odeBlockId>
+          <odeIdeviceId>idevice-1779135679429-jq87olyhk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Le produit final de ce projet consiste en une production numérique double et interactive. Les élèves créeront tout d’abord un plan numérique d’une ville en français, incluant différents lieux, points de repère et indications de direction à l’aide des structures linguistiques étudiées en classe. Ensuite, ils réaliseront une courte vidéo dans laquelle ils expliqueront oralement un itinéraire à partir du plan créé. Ce projet permet de développer les compétences linguistiques en français, notamment l’expression orale et écrite, tout en favorisant l’utilisation responsable des outils numériques. Grâce à une approche pratique, collaborative et motivante, les apprenants deviennent acteurs de leur propre apprentissage à travers la création d’un produit concret et significatif.<br /> </p>
+<p style="text-align: justify;">Cliquez sur:</p>
+<p style="text-align: justify;"><a href="https://docs.google.com/document/d/1hPHHv5UQm8M5qfcPipunQvvndltRx9ZeXoTvR03bidQ/edit?usp=sharing" title=""><img src="{{context_path}}/content/resources/projet final.png" width="1536" height="1024" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779135679429-jq87olyhk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Le produit final de ce projet consiste en une production numérique double et interactive. Les élèves créeront tout d’abord un plan numérique d’une ville en français, incluant différents lieux, points de repère et indications de direction à l’aide des structures linguistiques étudiées en classe. Ensuite, ils réaliseront une courte vidéo dans laquelle ils expliqueront oralement un itinéraire à partir du plan créé. Ce projet permet de développer les compétences linguistiques en français, notamment l’expression orale et écrite, tout en favorisant l’utilisation responsable des outils numériques. Grâce à une approche pratique, collaborative et motivante, les apprenants deviennent acteurs de leur propre apprentissage à travers la création d’un produit concret et significatif.<br /> </p>\n<p style=\"text-align: justify;\">Cliquez sur:</p>\n<p style=\"text-align: justify;\"><a href=\"https://docs.google.com/document/d/1hPHHv5UQm8M5qfcPipunQvvndltRx9ZeXoTvR03bidQ/edit?usp=sharing\" title=\"\"><img src=\"{{context_path}}/content/resources/projet final.png\" width=\"1536\" height=\"1024\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a0-r3oqr15ry</odePageId>
+      <odeBlockId>block-1779135813234-acaby9dee</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a0-r3oqr15ry</odePageId>
+          <odeBlockId>block-1779135813234-acaby9dee</odeBlockId>
+          <odeIdeviceId>idevice-1779135813232-nocgu6dmk</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779135813232-nocgu6dmk" title="" href="{{context_path}}/content/resources/projet final.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/projet final.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779135813232-nocgu6dmk","img_0":{"img":"{{context_path}}/content/resources/projet final.png","thumbnail":"{{context_path}}/content/resources/projet final.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a1-pff6ik5rr</odePageId>
+  <odeParentPageId>page-mpcfk19w-fpwilh88p</odeParentPageId>
+  <pageName>Outils de curation de contenus</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Outils de curation de contenus</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Outils de curation de contenus</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a1-pff6ik5rr</odePageId>
+      <odeBlockId>block-1779137052336-6jx258dkb</odeBlockId>
+      <blockName>Outils de curation de contenus</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a1-pff6ik5rr</odePageId>
+          <odeBlockId>block-1779137052336-6jx258dkb</odeBlockId>
+          <odeIdeviceId>idevice-1779137052335-ag6tqh2n3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Dans ma pratique enseignante en tant que professeure de français, la curation de contenus constitue un processus essentiel pour favoriser un apprentissage significatif, notamment dans le développement des compétences communicatives en langue étrangère.</p>
+<p style="text-align: justify;">Tout d’abord, j’analyse les besoins de mes élèves. Je prends en compte leur niveau de compétence linguistique, les objectifs d’apprentissage (compréhension orale, expression écrite, vocabulaire, grammaire, etc.) ainsi que leurs centres d’intérêt. De cette manière, je sélectionne des contenus utiles, motivants et adaptés à leur contexte, afin de favoriser un apprentissage plus efficace de la langue.</p>
+<p style="text-align: justify;">Ensuite, je sélectionne et filtre les informations. Face à la grande quantité de ressources disponibles sur Internet, je privilégie des supports de qualité, clairs et adaptés au niveau des apprenants. Je choisis principalement des vidéos, des audios, des activités interactives, des textes adaptés et des tutoriels qui contribuent au développement des différentes compétences linguistiques (compréhension et expression orales et écrites).</p>
+<p style="text-align: justify;">Par la suite, j’organise les informations de manière structurée. Je classe les ressources selon les compétences linguistiques ou les thématiques (par exemple : vocabulaire, grammaire, compréhension orale, etc.), ce qui permet aux élèves d’y accéder de façon autonome et progressive. Cette organisation évite la surcharge d’informations et améliore l’expérience d’apprentissage.</p>
+<p style="text-align: justify;">Une fois les contenus organisés, je les partage à travers des outils numériques de curation de contenus. Ces plateformes permettent de présenter les ressources de manière visuelle, accessible et attractive, tout en favorisant la participation des élèves et l’apprentissage autonome, aussi bien en classe qu’en dehors de celle-ci.</p>
+<p style="text-align: justify;">Enfin, j’évalue les résultats. J’observe quels sont les ressources les plus utilisées par les élèves, celles qu’ils trouvent les plus utiles et les difficultés qu’ils rencontrent. Je prends également en compte leurs retours, car ils peuvent proposer de nouveaux outils ou contenus intéressants en français. Cette rétroaction me permet d’améliorer continuellement le processus de sélection et d’organisation des ressources.</p>
+<p style="text-align: justify;">En conclusion, la curation de contenus dans l’enseignement du français ne consiste pas seulement à recueillir des matériaux, mais aussi à les analyser, les adapter et les organiser afin de favoriser de manière efficace et motivante le développement des compétences linguistiques des élèves.</p>
+<p style="text-align: justify;">Pour mes élèves: <a href="https://padlet.com/mmirgal886/la-ville-d6pgryfrfmoq28rz">https://padlet.com/mmirgal886/la-ville-d6pgryfrfmoq28rz</a></p>
+<p style="text-align: justify;">Pour la communauté éducative: <a href="https://www.symbaloo.com/mix/mi-webmix-jicm">https://www.symbaloo.com/mix/mi-webmix-jicm</a></p>
+<p style="text-align: justify;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779137052335-ag6tqh2n3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Dans ma pratique enseignante en tant que professeure de français, la curation de contenus constitue un processus essentiel pour favoriser un apprentissage significatif, notamment dans le développement des compétences communicatives en langue étrangère.</p>\n<p style=\"text-align: justify;\">Tout d’abord, j’analyse les besoins de mes élèves. Je prends en compte leur niveau de compétence linguistique, les objectifs d’apprentissage (compréhension orale, expression écrite, vocabulaire, grammaire, etc.) ainsi que leurs centres d’intérêt. De cette manière, je sélectionne des contenus utiles, motivants et adaptés à leur contexte, afin de favoriser un apprentissage plus efficace de la langue.</p>\n<p style=\"text-align: justify;\">Ensuite, je sélectionne et filtre les informations. Face à la grande quantité de ressources disponibles sur Internet, je privilégie des supports de qualité, clairs et adaptés au niveau des apprenants. Je choisis principalement des vidéos, des audios, des activités interactives, des textes adaptés et des tutoriels qui contribuent au développement des différentes compétences linguistiques (compréhension et expression orales et écrites).</p>\n<p style=\"text-align: justify;\">Par la suite, j’organise les informations de manière structurée. Je classe les ressources selon les compétences linguistiques ou les thématiques (par exemple : vocabulaire, grammaire, compréhension orale, etc.), ce qui permet aux élèves d’y accéder de façon autonome et progressive. Cette organisation évite la surcharge d’informations et améliore l’expérience d’apprentissage.</p>\n<p style=\"text-align: justify;\">Une fois les contenus organisés, je les partage à travers des outils numériques de curation de contenus. Ces plateformes permettent de présenter les ressources de manière visuelle, accessible et attractive, tout en favorisant la participation des élèves et l’apprentissage autonome, aussi bien en classe qu’en dehors de celle-ci.</p>\n<p style=\"text-align: justify;\">Enfin, j’évalue les résultats. J’observe quels sont les ressources les plus utilisées par les élèves, celles qu’ils trouvent les plus utiles et les difficultés qu’ils rencontrent. Je prends également en compte leurs retours, car ils peuvent proposer de nouveaux outils ou contenus intéressants en français. Cette rétroaction me permet d’améliorer continuellement le processus de sélection et d’organisation des ressources.</p>\n<p style=\"text-align: justify;\">En conclusion, la curation de contenus dans l’enseignement du français ne consiste pas seulement à recueillir des matériaux, mais aussi à les analyser, les adapter et les organiser afin de favoriser de manière efficace et motivante le développement des compétences linguistiques des élèves.</p>\n<p style=\"text-align: justify;\">Pour mes élèves: <a href=\"https://padlet.com/mmirgal886/la-ville-d6pgryfrfmoq28rz\">https://padlet.com/mmirgal886/la-ville-d6pgryfrfmoq28rz</a></p>\n<p style=\"text-align: justify;\">Pour la communauté éducative: <a href=\"https://www.symbaloo.com/mix/mi-webmix-jicm\">https://www.symbaloo.com/mix/mi-webmix-jicm</a></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a1-bbzgopnrz</odePageId>
+  <odeParentPageId>page-mpcfk19w-fpwilh88p</odeParentPageId>
+  <pageName>Parcous d&apos;apprentissage: Séquences de séances</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Parcous d&apos;apprentissage: Séquences de séances</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Séquences de séances</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Parcous d&apos;apprentissage: Séquences de séances</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a1-bbzgopnrz</odePageId>
+      <odeBlockId>block-1779137511464-gn1a3vakr</odeBlockId>
+      <blockName>Séquence de séances</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a1-bbzgopnrz</odePageId>
+          <odeBlockId>block-1779137511464-gn1a3vakr</odeBlockId>
+          <odeIdeviceId>idevice-1779137511462-p3uovpj16</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Cette unité didactique est organisée en plusieurs séances progressives et complémentaires. Les activités proposées permettent aux élèves de développer leurs compétences linguistiques en français tout en utilisant des outils numériques de manière guidée et collaborative. À travers des activités de compréhension et d’expression orale et écrite, les apprenants travaillent le vocabulaire de la ville, les indications de direction ainsi que les structures grammaticales nécessaires pour communiquer dans des situations réelles. La séquence aboutit à la réalisation d’un produit final composé d’un plan numérique interactif et d’une vidéo orale en français, favorisant ainsi un apprentissage actif, motivant et significatif.:</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHJHidMx04/rf-ARvRgeNBCW4q7tk8zwg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p style="text-align: justify;"><a href="https://www.canva.com/design/DAHJHidMx04/rf-ARvRgeNBCW4q7tk8zwg/view?utm_content=DAHJHidMx04&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Infografía Mapa mental Listado Ideas Nubes Conceptos Creativo Colorido</a> de María del Pilar Miranda Gallego</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779137511462-p3uovpj16","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Cette unité didactique est organisée en plusieurs séances progressives et complémentaires. Les activités proposées permettent aux élèves de développer leurs compétences linguistiques en français tout en utilisant des outils numériques de manière guidée et collaborative. À travers des activités de compréhension et d’expression orale et écrite, les apprenants travaillent le vocabulaire de la ville, les indications de direction ainsi que les structures grammaticales nécessaires pour communiquer dans des situations réelles. La séquence aboutit à la réalisation d’un produit final composé d’un plan numérique interactif et d’une vidéo orale en français, favorisant ainsi un apprentissage actif, motivant et significatif.:</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHJHidMx04/rf-ARvRgeNBCW4q7tk8zwg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p style=\"text-align: justify;\"><a href=\"https://www.canva.com/design/DAHJHidMx04/rf-ARvRgeNBCW4q7tk8zwg/view?utm_content=DAHJHidMx04&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Infografía Mapa mental Listado Ideas Nubes Conceptos Creativo Colorido</a> de María del Pilar Miranda Gallego</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a2-b2y80cqmi</odePageId>
+  <odeParentPageId>page-mpcfk19w-fpwilh88p</odeParentPageId>
+  <pageName>Critères d&apos;évaluation</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Critères d&apos;évaluation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Critères d&apos;évaluation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a2-b2y80cqmi</odePageId>
+      <odeBlockId>block-1779137707893-zyujdh03u</odeBlockId>
+      <blockName>Critères d&apos;évaluation</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a2-b2y80cqmi</odePageId>
+          <odeBlockId>block-1779137707893-zyujdh03u</odeBlockId>
+          <odeIdeviceId>idevice-1779137707892-nj9d8q0i3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779137707892-nj9d8q0i3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a2-b2y80cqmi</odePageId>
+      <odeBlockId>block-1779137837631-btqvb04q9</odeBlockId>
+      <blockName>Critères d&apos;évaluation</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a2-b2y80cqmi</odePageId>
+          <odeBlockId>block-1779137837631-btqvb04q9</odeBlockId>
+          <odeIdeviceId>idevice-1779137837628-kqao8o0eg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Les critères d’évaluation permettent de vérifier le développement progressif des compétences linguistiques et numériques des élèves tout au long du projet. Les différentes activités proposées évaluent la compréhension orale et écrite, l’expression orale et écrite ainsi que la capacité des apprenants à utiliser des outils numériques de manière responsable et créative. Les critères prennent également en compte la participation, le travail collaboratif, l’autonomie et l’utilisation adaptée des ressources numériques pour réaliser le produit final. Cette évaluation continue favorise un apprentissage actif, motivant et centré sur les besoins des élèves.</p>
+<p style="text-align: justify;"><a href="https://docs.google.com/document/d/1vUNfEm0uABtTSkJ00SKpxHkaOEUI5ieTLITd7l_1XIc/edit?usp=sharing">https://docs.google.com/document/d/1vUNfEm0uABtTSkJ00SKpxHkaOEUI5ieTLITd7l_1XIc/edit?usp=sharing</a></p>
+<p style="text-align: justify;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779137837628-kqao8o0eg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Les critères d’évaluation permettent de vérifier le développement progressif des compétences linguistiques et numériques des élèves tout au long du projet. Les différentes activités proposées évaluent la compréhension orale et écrite, l’expression orale et écrite ainsi que la capacité des apprenants à utiliser des outils numériques de manière responsable et créative. Les critères prennent également en compte la participation, le travail collaboratif, l’autonomie et l’utilisation adaptée des ressources numériques pour réaliser le produit final. Cette évaluation continue favorise un apprentissage actif, motivant et centré sur les besoins des élèves.</p>\n<p style=\"text-align: justify;\"><a href=\"https://docs.google.com/document/d/1vUNfEm0uABtTSkJ00SKpxHkaOEUI5ieTLITd7l_1XIc/edit?usp=sharing\">https://docs.google.com/document/d/1vUNfEm0uABtTSkJ00SKpxHkaOEUI5ieTLITd7l_1XIc/edit?usp=sharing</a></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a2-xyu2mwixa</odePageId>
+  <odeParentPageId>page-mpcfk19w-fpwilh88p</odeParentPageId>
+  <pageName>Outils d&apos;évaluation</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Outils d&apos;évaluation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Outils d&apos;évaluation</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a2-xyu2mwixa</odePageId>
+      <odeBlockId>block-1779137968257-1w9nabx8q</odeBlockId>
+      <blockName>Outils d&apos;évaluation</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a2-xyu2mwixa</odePageId>
+          <odeBlockId>block-1779137968257-1w9nabx8q</odeBlockId>
+          <odeIdeviceId>idevice-1779137968256-sxq8i8nfi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Les outils d’évaluation sont utilisés afin d’évaluer à la fois le processus d’apprentissage et le produit final du projet. Ces instruments permettent de recueillir des preuves des apprentissages des élèves, de fournir un retour formatif et de favoriser la réflexion ainsi que l’autonomie des apprenants. L’évaluation repose principalement sur une grille d’évaluation du produit final et une liste de contrôle permettant de suivre la participation, les compétences linguistiques et l’utilisation des outils numériques tout au long des séances. Cette approche favorise une évaluation continue, formative et adaptée aux besoins des élèves.</p>
+<p style="text-align: justify;">Je vous offre des détails en espangol sur ce lien: <a href="https://docs.google.com/document/d/17_n-pMm7Yo2T9rbq4bEZP6CQRBD3h8eWGFlRSQ3V2aI/edit?tab=t.0">https://docs.google.com/document/d/17_n-pMm7Yo2T9rbq4bEZP6CQRBD3h8eWGFlRSQ3V2aI/edit?tab=t.0</a></p>
+<p style="text-align: justify;">Et finalement, je vous montre aussi un autre outils:<br /><iframe width="640" height="1420" src="https://docs.google.com/forms/d/e/1FAIpQLSfo8FMFeWA7H8Mf8-RiT6vHHSJsWTfYaWNIvMiNUSIL9erVcw/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe><br /></p>
+<p style="text-align: justify;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779137968256-sxq8i8nfi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Les outils d’évaluation sont utilisés afin d’évaluer à la fois le processus d’apprentissage et le produit final du projet. Ces instruments permettent de recueillir des preuves des apprentissages des élèves, de fournir un retour formatif et de favoriser la réflexion ainsi que l’autonomie des apprenants. L’évaluation repose principalement sur une grille d’évaluation du produit final et une liste de contrôle permettant de suivre la participation, les compétences linguistiques et l’utilisation des outils numériques tout au long des séances. Cette approche favorise une évaluation continue, formative et adaptée aux besoins des élèves.</p>\n<p style=\"text-align: justify;\">Je vous offre des détails en espangol sur ce lien: <a href=\"https://docs.google.com/document/d/17_n-pMm7Yo2T9rbq4bEZP6CQRBD3h8eWGFlRSQ3V2aI/edit?tab=t.0\">https://docs.google.com/document/d/17_n-pMm7Yo2T9rbq4bEZP6CQRBD3h8eWGFlRSQ3V2aI/edit?tab=t.0</a></p>\n<p style=\"text-align: justify;\">Et finalement, je vous montre aussi un autre outils:<br /><iframe width=\"640\" height=\"1420\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfo8FMFeWA7H8Mf8-RiT6vHHSJsWTfYaWNIvMiNUSIL9erVcw/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Cargando…</iframe><br /></p>\n<p style=\"text-align: justify;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a3-4f5fj6gu9</odePageId>
+  <odeParentPageId>page-mpcfk19w-fpwilh88p</odeParentPageId>
+  <pageName>Exemple d&apos;activités</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Exemple d&apos;activités</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Activités</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Exemple d&apos;activités</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a3-4f5fj6gu9</odePageId>
+      <odeBlockId>block-1779138775133-28od60usi</odeBlockId>
+      <blockName>Activités</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a3-4f5fj6gu9</odePageId>
+          <odeBlockId>block-1779138775133-28od60usi</odeBlockId>
+          <odeIdeviceId>idevice-1779138775131-jbyakx2fy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Cette Situation d’Apprentissage propose une progression d’activités variées et motivantes permettant aux élèves de développer progressivement leurs compétences linguistiques et numériques. À partir de la première séance, les apprenants découvrent le lexique de la ville ainsi que les principaux points de repère grâce à des activités interactives et visuelles. Ensuite, différentes activités grammaticales sont mises en place afin de travailler les verbes et les structures nécessaires pour indiquer le chemin en français. La séquence comprend également des activités de compréhension orale et écrite, favorisant l’acquisition du vocabulaire et des expressions liées aux itinéraires. Enfin, les élèves réalisent un plan numérique de la ville et développent leurs compétences en expression orale et écrite à travers la création d’un dialogue et l’enregistrement d’une vidéo en français. Cette démarche pédagogique favorise un apprentissage actif, collaboratif et significatif.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779138775131-jbyakx2fy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Cette Situation d’Apprentissage propose une progression d’activités variées et motivantes permettant aux élèves de développer progressivement leurs compétences linguistiques et numériques. À partir de la première séance, les apprenants découvrent le lexique de la ville ainsi que les principaux points de repère grâce à des activités interactives et visuelles. Ensuite, différentes activités grammaticales sont mises en place afin de travailler les verbes et les structures nécessaires pour indiquer le chemin en français. La séquence comprend également des activités de compréhension orale et écrite, favorisant l’acquisition du vocabulaire et des expressions liées aux itinéraires. Enfin, les élèves réalisent un plan numérique de la ville et développent leurs compétences en expression orale et écrite à travers la création d’un dialogue et l’enregistrement d’une vidéo en français. Cette démarche pédagogique favorise un apprentissage actif, collaboratif et significatif.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a3-5y1jvjteq</odePageId>
+  <odeParentPageId>page-mpcfk1a3-4f5fj6gu9</odeParentPageId>
+  <pageName>LE LEXIQUE VILLE</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LE LEXIQUE VILLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LE LEXIQUE VILLE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a3-5y1jvjteq</odePageId>
+      <odeBlockId>block-1779138844875-ig0b7ehqv</odeBlockId>
+      <blockName>VILLE</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a3-5y1jvjteq</odePageId>
+          <odeBlockId>block-1779138844875-ig0b7ehqv</odeBlockId>
+          <odeIdeviceId>idevice-1779138844874-3nd9mwsfn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Introduction des activités du lexique se fera à partir d'un document écrit,une carte et puis on fera des activités pour travailler le lexique de la ville, en utilisant les ressources numériques suivants pour travailler les compétences 5.1./ 5.2</p>
+<p><a href="https://learningapps.org/watch?v=pbyrijn0j19" title=""><img src="{{context_path}}/content/resources/photo lexique ville.png" width="1536" height="832" alt="" /></a></p>
+<p><br /></p>
+<p>ou</p>
+<p><a href="https://www.languagesonline.org.uk/French/FrenchVocab/En_Ville/5.htm" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-18 231918.png" width="1536" height="827" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779138844874-3nd9mwsfn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Introduction des activités du lexique se fera à partir d'un document écrit,une carte et puis on fera des activités pour travailler le lexique de la ville, en utilisant les ressources numériques suivants pour travailler les compétences 5.1./ 5.2</p>\n<p><a href=\"https://learningapps.org/watch?v=pbyrijn0j19\" title=\"\"><img src=\"{{context_path}}/content/resources/photo lexique ville.png\" width=\"1536\" height=\"832\" alt=\"\" /></a></p>\n<p><br /></p>\n<p>ou</p>\n<p><a href=\"https://www.languagesonline.org.uk/French/FrenchVocab/En_Ville/5.htm\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-18 231918.png\" width=\"1536\" height=\"827\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a4-k1o8ztwak</odePageId>
+  <odeParentPageId>page-mpcfk1a3-4f5fj6gu9</odeParentPageId>
+  <pageName>STRUCTURES LINGÜISTIQUES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>STRUCTURES LINGÜISTIQUES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>STRUCTURES LINGÜISTIQUES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a4-k1o8ztwak</odePageId>
+      <odeBlockId>block-1779139574034-mp515c5i4</odeBlockId>
+      <blockName>Grammaire</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a4-k1o8ztwak</odePageId>
+          <odeBlockId>block-1779139574034-mp515c5i4</odeBlockId>
+          <odeIdeviceId>idevice-1779139574033-x2fnxxasi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Pour la grammaire les élèves commencent à travailler avec des outils en support papier ou le tableau numérique:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-18 233403.png" width="911" height="663" alt="" /></p>
+<p>mais pour renforcer ou consolider, selon les besoins, on utilisera les outils numériques, comme par exemple:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-18 233258.png" width="1536" height="774" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779139574033-x2fnxxasi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pour la grammaire les élèves commencent à travailler avec des outils en support papier ou le tableau numérique:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-18 233403.png\" width=\"911\" height=\"663\" alt=\"\" /></p>\n<p>mais pour renforcer ou consolider, selon les besoins, on utilisera les outils numériques, comme par exemple:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-18 233258.png\" width=\"1536\" height=\"774\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a5-m7tw34213</odePageId>
+  <odeParentPageId>page-mpcfk1a3-4f5fj6gu9</odeParentPageId>
+  <pageName>COMPRÉHENSION ORALE</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPRÉHENSION ORALE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPRÉHENSION ORALE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a5-m7tw34213</odePageId>
+      <odeBlockId>block-1779140272084-ez2zbzyvt</odeBlockId>
+      <blockName>Compréhension orale</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a5-m7tw34213</odePageId>
+          <odeBlockId>block-1779140272084-ez2zbzyvt</odeBlockId>
+          <odeIdeviceId>idevice-1779140272083-8r2syfek2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Pour la compréhension orale, on travaillera avec des supports numériques: le tableau digital et la vidéo en V.O.:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-18 233955.png" width="1471" height="703" alt="" /></p>
+<p><a href="https://www.youtubeeducation.com/watch?v=bWcuq43KW98">https://www.youtubeeducation.com/watch?v=bWcuq43KW98</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779140272083-8r2syfek2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pour la compréhension orale, on travaillera avec des supports numériques: le tableau digital et la vidéo en V.O.:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-18 233955.png\" width=\"1471\" height=\"703\" alt=\"\" /></p>\n<p><a href=\"https://www.youtubeeducation.com/watch?v=bWcuq43KW98\">https://www.youtubeeducation.com/watch?v=bWcuq43KW98</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a5-2yed4e7nr</odePageId>
+  <odeParentPageId>page-mpcfk1a3-4f5fj6gu9</odeParentPageId>
+  <pageName>COMPRÉHENSION ÉCRITE</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPRÉHENSION ÉCRITE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPRÉHENSION ÉCRITE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>COMPRÉHENSION ÉCRITE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a5-2yed4e7nr</odePageId>
+      <odeBlockId>block-1779140638412-tv4i0u1qq</odeBlockId>
+      <blockName>Compréhension écrite</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a5-2yed4e7nr</odePageId>
+          <odeBlockId>block-1779140638412-tv4i0u1qq</odeBlockId>
+          <odeIdeviceId>idevice-1779140638411-h3ya0al0p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Pour travailler la compréhension écrite, mes élèves se servirant des plans de villes et textes:</p>
+<p><img src="{{context_path}}/content/resources/La ville_ compréhension écrite interactive worksheet.jfif" width="736" height="1040" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779140638411-h3ya0al0p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Pour travailler la compréhension écrite, mes élèves se servirant des plans de villes et textes:</p>\n<p><img src=\"{{context_path}}/content/resources/La ville_ compréhension écrite interactive worksheet.jfif\" width=\"736\" height=\"1040\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a5-9zgq7a1b1</odePageId>
+  <odeParentPageId>page-mpcfk1a3-4f5fj6gu9</odeParentPageId>
+  <pageName>EXPRESSION ÉCRITE</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EXPRESSION ÉCRITE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EXPRESSION ÉCRITE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a5-9zgq7a1b1</odePageId>
+      <odeBlockId>block-1779140913947-ti4pmrbxb</odeBlockId>
+      <blockName>Expression écrite</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a5-9zgq7a1b1</odePageId>
+          <odeBlockId>block-1779140913947-ti4pmrbxb</odeBlockId>
+          <odeIdeviceId>idevice-1779140913946-b67nf2zew</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779140913946-b67nf2zew","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a5-9zgq7a1b1</odePageId>
+      <odeBlockId>block-1779142740393-9fcg3y36m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a5-9zgq7a1b1</odePageId>
+          <odeBlockId>block-1779142740393-9fcg3y36m</odeBlockId>
+          <odeIdeviceId>idevice-1779142740392-x0i93ba4b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>On utilisera ce ressource avec un exemple de texte pour travailler l'expression écrite, indiquer le chemin:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-19 002250.png" width="1202" height="803" alt="" /><img src="{{context_path}}/content/resources/Indiquer le chemin et magasin.pdf" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779142740392-x0i93ba4b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>On utilisera ce ressource avec un exemple de texte pour travailler l'expression écrite, indiquer le chemin:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-19 002250.png\" width=\"1202\" height=\"803\" alt=\"\" /><img src=\"{{context_path}}/content/resources/Indiquer le chemin et magasin.pdf\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a7-g1vv5upnd</odePageId>
+  <odeParentPageId>page-mpcfk1a3-4f5fj6gu9</odeParentPageId>
+  <pageName>EXPRESSION ORALE</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EXPRESSION ORALE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EXPRESSION ORALE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a7-g1vv5upnd</odePageId>
+      <odeBlockId>block-1779173485495-cnu3fot2o</odeBlockId>
+      <blockName>Expression orale</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a7-g1vv5upnd</odePageId>
+          <odeBlockId>block-1779173485495-cnu3fot2o</odeBlockId>
+          <odeIdeviceId>idevice-1779173485494-uq6cgk4l6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La production orale doit être travaillé avant d'être arrivé au produit final, pour cela on se servera d'exemples , documents sonores ou audiovisuels et support en papier, cliquez sur l'image:</p>
+<p><a href="https://youtube.com/shorts/zxV1jrPIjME?si=gy0NkeM3VfUYpDxB" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-19 090256.png" width="1260" height="732" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779173485494-uq6cgk4l6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La production orale doit être travaillé avant d'être arrivé au produit final, pour cela on se servera d'exemples , documents sonores ou audiovisuels et support en papier, cliquez sur l'image:</p>\n<p><a href=\"https://youtube.com/shorts/zxV1jrPIjME?si=gy0NkeM3VfUYpDxB\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-19 090256.png\" width=\"1260\" height=\"732\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a8-inlhjsafn</odePageId>
+  <odeParentPageId>page-mpcfk1a3-4f5fj6gu9</odeParentPageId>
+  <pageName>PLAN DIGITAL</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLAN DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLAN DIGITAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a8-inlhjsafn</odePageId>
+      <odeBlockId>block-1779143083153-yp04noe1p</odeBlockId>
+      <blockName>Plan numérique</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a8-inlhjsafn</odePageId>
+          <odeBlockId>block-1779143083153-yp04noe1p</odeBlockId>
+          <odeIdeviceId>idevice-1779143083152-2ml302y5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Comme exemple du prouduit de la première partie le plan de la ville ce serait le suivant, où les élèves travaillent avec Canva:</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-19 002741.png" width="1006" height="567" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-19 002806.png" width="1005" height="547" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779143083152-2ml302y5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comme exemple du prouduit de la première partie le plan de la ville ce serait le suivant, où les élèves travaillent avec Canva:</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-19 002741.png\" width=\"1006\" height=\"567\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-19 002806.png\" width=\"1005\" height=\"547\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a8-m4acg5hfp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Mon guide pédagogique</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mon guide pédagogique</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mon guide pédagogique</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a8-m4acg5hfp</odePageId>
+      <odeBlockId>block-1779143384408-zgl4451pc</odeBlockId>
+      <blockName>Guide pédagogique</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a8-m4acg5hfp</odePageId>
+          <odeBlockId>block-1779143384408-zgl4451pc</odeBlockId>
+          <odeIdeviceId>idevice-1779143384407-6ix54s967</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dans cette Situation d’Apprentissage, différents instruments d’évaluation sont utilisés afin d'évaluer les compétences lingüistiques et numérique:</p>
+<p>-Évaluer à la fois le processus et le produit final.<br />-Recueillir des preuves des apprentissages des élèves.<br />-Fournir un retour formatif.<br />-Favoriser la réflexion et l’autorégulation des apprenants.<br />Deux instruments seront utilisés :</p>
+<p>Une grille d’évaluation du produit final.<br />Une liste de contrôle pour le suivi du processus.<br /> <br />2. Relation avec les critères d’évaluation<br />Les instruments conçus sont alignés avec les critères suivants :</p>
+<p>1.1, 1.2, 1.3 → Compréhension de textes oraux et écrits (La ville et les itinéraires).<br />2.1 → Production orale (présentation de la vidéo).<br />2.2 → Production écrite (rédaction du dialogue de l’itinéraire).<br />2.3 → Planification, production et révision des textes.<br />5.1, 5.2 → Stratégies d’apprentissage et utilisation de la langue.<br /> <br />3. Instrument 1 : Grille d’évaluation de la VIDÉO – PLAN DE VILLE<br />Moment d’utilisation<br />Elle est utilisée à la fin du projet, pendant la présentation en classe.</p>
+<p style="text-align: justify;">Critères évalués<br />2.1 (expression orale)<br />2.2 (expression écrite)<br />2.3 (planification et production)</p>
+<p style="text-align: justify;">4. Le rapport entre critère d'évaluation et  outils d'évaluation en cohérence avec les compétences se trouve sur ce lien: <a href="https://docs.google.com/document/d/1vUNfEm0uABtTSkJ00SKpxHkaOEUI5ieTLITd7l_1XIc/edit?usp=sharing" title="">rapport de critères</a> ou bien:</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHKFlPJtUQ/m7ChtKrE4wAzw4Lo-ohq9g/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p style="text-align: justify;"><a href="https://www.canva.com/design/DAHKFlPJtUQ/m7ChtKrE4wAzw4Lo-ohq9g/view?utm_content=DAHKFlPJtUQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">A continuación paso a detallar los criterios de evaluación trabajados en las diferentes sesiones: 1.1. Iniciarse en la Interpretación y análisis del sentido global y de la información específica y explícita de textos orales, escritos y multimodales breves</a> de María del Pilar Miranda Gallego<br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779143384407-6ix54s967","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dans cette Situation d’Apprentissage, différents instruments d’évaluation sont utilisés afin d'évaluer les compétences lingüistiques et numérique:</p>\n<p>-Évaluer à la fois le processus et le produit final.<br />-Recueillir des preuves des apprentissages des élèves.<br />-Fournir un retour formatif.<br />-Favoriser la réflexion et l’autorégulation des apprenants.<br />Deux instruments seront utilisés :</p>\n<p>Une grille d’évaluation du produit final.<br />Une liste de contrôle pour le suivi du processus.<br /> <br />2. Relation avec les critères d’évaluation<br />Les instruments conçus sont alignés avec les critères suivants :</p>\n<p>1.1, 1.2, 1.3 → Compréhension de textes oraux et écrits (La ville et les itinéraires).<br />2.1 → Production orale (présentation de la vidéo).<br />2.2 → Production écrite (rédaction du dialogue de l’itinéraire).<br />2.3 → Planification, production et révision des textes.<br />5.1, 5.2 → Stratégies d’apprentissage et utilisation de la langue.<br /> <br />3. Instrument 1 : Grille d’évaluation de la VIDÉO – PLAN DE VILLE<br />Moment d’utilisation<br />Elle est utilisée à la fin du projet, pendant la présentation en classe.</p>\n<p style=\"text-align: justify;\">Critères évalués<br />2.1 (expression orale)<br />2.2 (expression écrite)<br />2.3 (planification et production)</p>\n<p style=\"text-align: justify;\">4. Le rapport entre critère d'évaluation et  outils d'évaluation en cohérence avec les compétences se trouve sur ce lien: <a href=\"https://docs.google.com/document/d/1vUNfEm0uABtTSkJ00SKpxHkaOEUI5ieTLITd7l_1XIc/edit?usp=sharing\" title=\"\">rapport de critères</a> ou bien:</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHKFlPJtUQ/m7ChtKrE4wAzw4Lo-ohq9g/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p style=\"text-align: justify;\"><a href=\"https://www.canva.com/design/DAHKFlPJtUQ/m7ChtKrE4wAzw4Lo-ohq9g/view?utm_content=DAHKFlPJtUQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">A continuación paso a detallar los criterios de evaluación trabajados en las diferentes sesiones: 1.1. Iniciarse en la Interpretación y análisis del sentido global y de la información específica y explícita de textos orales, escritos y multimodales breves</a> de María del Pilar Miranda Gallego<br /> <br /> <br /> <br /> <br /> <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcfk1a9-dubrvfxg1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Crédits et attributions</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Crédits et attributions</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Crédits </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Crédits et attributions</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a9-dubrvfxg1</odePageId>
+      <odeBlockId>block-1779141232151-2ultyy3dl</odeBlockId>
+      <blockName>Crédits et attributions</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a9-dubrvfxg1</odePageId>
+          <odeBlockId>block-1779141232151-2ultyy3dl</odeBlockId>
+          <odeIdeviceId>idevice-1779141232150-tfgbg0ubh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Mon projet respecte les droits d’auteur, les licences d’utilisation et les exigences du cours:</p>
+<p style="text-align: justify;">1. Projet réalisé par Pilar Miranda Gallego, Professeure de français langue étrangère (FLE)<br />2. Description du projet : Cette Situation d’Apprentissage intitulée « On se retrouve au centre-ville » a été conçue pour des élèves de 2º ESO. Le projet combine l’apprentissage du français, l’utilisation d’outils numériques et la création d’un plan numérique interactif accompagné d’une vidéo orale pour indiquer un itinéraire en ville.<br /> 3. Ce projet est publié sous licence Creative Commons CC BY-NC-SA 4.0<br />(Attribution – Pas d’utilisation commerciale – Partage dans les mêmes conditions).<br /><img src="{{context_path}}/content/resources/logo.png" width="192" height="67" alt="" /><br /></p>
+<p style="text-align: justify;"> 4. Attributions des ressources utilisées: <br /><img src="{{context_path}}/content/resources/descarga (6).jfif" width="166" height="62" alt="" />    <img src="{{context_path}}/content/resources/descarga (2).png" width="130" height="94" alt="" />   <img src="{{context_path}}/content/resources/maxresdefault.jpg" width="137" height="77" alt="" />  <img src="{{context_path}}/content/resources/symbaloo.png" width="89" height="89" alt="" /><img src="{{context_path}}/content/resources/herramientas-de-google-gratuitas-.jpg" width="162" height="108" alt="" /><img src="{{context_path}}/content/resources/Ilustración-1-Logo-de-la-aplicación-Capcut_WP.png" width="139" height="49" alt="" /><br /><br /><br /><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779141232150-tfgbg0ubh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Mon projet respecte les droits d’auteur, les licences d’utilisation et les exigences du cours:</p>\n<p style=\"text-align: justify;\">1. Projet réalisé par Pilar Miranda Gallego, Professeure de français langue étrangère (FLE)<br />2. Description du projet : Cette Situation d’Apprentissage intitulée « On se retrouve au centre-ville » a été conçue pour des élèves de 2º ESO. Le projet combine l’apprentissage du français, l’utilisation d’outils numériques et la création d’un plan numérique interactif accompagné d’une vidéo orale pour indiquer un itinéraire en ville.<br /> 3. Ce projet est publié sous licence Creative Commons CC BY-NC-SA 4.0<br />(Attribution – Pas d’utilisation commerciale – Partage dans les mêmes conditions).<br /><img src=\"{{context_path}}/content/resources/logo.png\" width=\"192\" height=\"67\" alt=\"\" /><br /></p>\n<p style=\"text-align: justify;\"> 4. Attributions des ressources utilisées: <br /><img src=\"{{context_path}}/content/resources/descarga (6).jfif\" width=\"166\" height=\"62\" alt=\"\" />    <img src=\"{{context_path}}/content/resources/descarga (2).png\" width=\"130\" height=\"94\" alt=\"\" />   <img src=\"{{context_path}}/content/resources/maxresdefault.jpg\" width=\"137\" height=\"77\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/symbaloo.png\" width=\"89\" height=\"89\" alt=\"\" /><img src=\"{{context_path}}/content/resources/herramientas-de-google-gratuitas-.jpg\" width=\"162\" height=\"108\" alt=\"\" /><img src=\"{{context_path}}/content/resources/Ilustración-1-Logo-de-la-aplicación-Capcut_WP.png\" width=\"139\" height=\"49\" alt=\"\" /><br /><br /><br /><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcfk1a9-dubrvfxg1</odePageId>
+      <odeBlockId>block-1779175017114-goztxn69f</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcfk1a9-dubrvfxg1</odePageId>
+          <odeBlockId>block-1779175017114-goztxn69f</odeBlockId>
+          <odeIdeviceId>idevice-1779175017111-7moai9e62</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Ma ville</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">2º ESO Création d'un plan de ville, explication d'itinéraires.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pilar Miranda Gallego</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
